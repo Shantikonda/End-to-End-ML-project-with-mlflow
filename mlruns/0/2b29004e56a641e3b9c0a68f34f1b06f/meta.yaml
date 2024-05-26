@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shanti%20Local/End-to-End-ML-project-with-mlflow/mlruns/0/2b29004e56a641e3b9c0a68f34f1b06f/artifacts
+end_time: 1716731896532
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b29004e56a641e3b9c0a68f34f1b06f
+run_name: brawny-gull-510
+run_uuid: 2b29004e56a641e3b9c0a68f34f1b06f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716731892690
+status: 3
+tags: []
+user_id: Shanti Local
