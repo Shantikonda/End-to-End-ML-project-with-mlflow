@@ -7,20 +7,20 @@ logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 project_name = "mlProject"
 
-#creates following file structure after running this template.py
+
 list_of_files = [
-    ".github/workflows/.gitkeep", # for CI/CD pipeline and guithub actions
+    ".github/workflows/.gitkeep",
     f"src/{project_name}/__init__.py",
     f"src/{project_name}/components/__init__.py",
     f"src/{project_name}/utils/__init__.py",
-    f"src/{project_name}/utils/common.py", # for all utilities
+    f"src/{project_name}/utils/common.py",
     f"src/{project_name}/config/__init__.py",
     f"src/{project_name}/config/configuration.py",
     f"src/{project_name}/pipeline/__init__.py",
     f"src/{project_name}/entity/__init__.py",
     f"src/{project_name}/entity/config_entity.py",
     f"src/{project_name}/constants/__init__.py",
-    "config/config.yaml", # for all configurations of project
+    "config/config.yaml",
     "params.yaml",
     "schema.yaml",
     "main.py",

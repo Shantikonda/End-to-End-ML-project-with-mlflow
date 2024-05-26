@@ -1,8 +1,5 @@
-# End-to-End-ML-project-with-mlflow
+# End-to-end-Machine-Learning-Project-with-MLflow
 
-# Git commands
-# git commit -m "<text>"
-# git push origin main #pushes the repo to GitHub
 
 ## Workflows
 
@@ -15,6 +12,7 @@
 7. Update the pipeline 
 8. Update the main.py
 9. Update the app.py
+
 
 
 # How to run?
@@ -166,3 +164,5 @@ MLflow
  - Its Production Grade
  - Trace all of your expriements
  - Logging & tagging your model
+
+

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shanti%20Local/End-to-End-ML-project-with-mlflow/mlruns/0/9d09ca4dc22b49f392248600c477fa06/artifacts
+end_time: 1716729882168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d09ca4dc22b49f392248600c477fa06
+run_name: calm-snail-878
+run_uuid: 9d09ca4dc22b49f392248600c477fa06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716729879098
+status: 3
+tags: []
+user_id: Shanti Local
